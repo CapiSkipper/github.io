@@ -1,0 +1,920 @@
+Uri: https://fonts.googleapis.com/css?family=Manrope:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://jagaen.tokotema.com/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\index-1.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/?storefront=envato-elements
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/about-us/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/career-details/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\career-details\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/careers/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\careers\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/comments/feed/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://jagaen.tokotema.com/contact-us/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/feed/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://jagaen.tokotema.com/pricing/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\pricing\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/service-details/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\service-details\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/services/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\services\index.htm
+Content Type: text/html
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.6
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.6
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.6
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.6
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.16.6
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.17
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.17
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\css\elements\main.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.eot?bv8d8l
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.svg?bv8d8l
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon.svg
+Content Type: image/svg+xml
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.ttf?bv8d8l
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon.ttf
+Content Type: font/ttf
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff2?bv8d8l
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon.woff2
+Content Type: font/woff2
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff?bv8d8l
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon.woff
+Content Type: font/woff
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/img/letter-x.svg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\img\letter-x.svg
+Content Type: image/svg+xml
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/accordion.js?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\js\elements\accordion.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact.js?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\js\elements\fun-fact.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\js\elements\nav-menu.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/progress-bar.js?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\js\elements\progress-bar.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.6.2
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\assets\js\elements\sticky-element.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\jeg-elementor-kit\lib\jeg-framework\assets\css\jeg-dynamic-styles.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/rform-button.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\rform-button.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/rform-checkbox.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\rform-checkbox.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/rform-radiobutton.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\rform-radiobutton.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/rform-select.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\rform-select.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/rform.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\rform.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/rtform_text.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\rtform_text.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/css/spinner-loading.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\css\spinner-loading.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/js/rform.js?ver=1.1.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\js\rform.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/js/rform_select.js?ver=1.1.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\js\rform_select.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/romethemeform/widgets/assets/js/rtform_text.js?ver=1.1.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\romethemeform\widgets\assets\js\rtform_text.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min.css?ver=1.0.21
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\template-kit-export\public\assets\css\template-kit-export-public.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min.js?ver=1.0.21
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\plugins\template-kit-export\public\assets\js\template-kit-export-public.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/a-smiling-pretty-middle-aged-businesswoman-outside-2022-03-23-21-28-32-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\a-smiling-pretty-middle-aged-businesswoman-outside-2022-03-23-21-28-32-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/a-smiling-pretty-middle-aged-businesswoman-outside-2022-03-23-21-28-32-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\a-smiling-pretty-middle-aged-businesswoman-outside-2022-03-23-21-28-32-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/badge.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\badge.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/barrier.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\barrier.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/bodyguard-service-private-security-handsome-man-2023-08-09-22-54-00-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\bodyguard-service-private-security-handsome-man-2023-08-09-22-54-00-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/bodyguard-service-private-security-handsome-man-2023-08-09-22-54-00-utc-1-298x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\bodyguard-service-private-security-handsome-man-2023-08-09-22-54-00-utc-1-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/bodyguard-service-private-security-handsome-man-2023-08-09-22-54-00-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\bodyguard-service-private-security-handsome-man-2023-08-09-22-54-00-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/bulletproof.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\bulletproof.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/call-center-2022-02-12-06-04-45-utc-1-300x244.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\call-center-2022-02-12-06-04-45-utc-1-300x244.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/call-center-2022-02-12-06-04-45-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\call-center-2022-02-12-06-04-45-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/call-center-2022-02-12-06-04-45-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\call-center-2022-02-12-06-04-45-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/crime-scene.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\crime-scene.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-shot-of-hacker-using-laptop-cuber-securit-2022-12-16-16-29-22-utc-1-300x231.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-shot-of-hacker-using-laptop-cuber-securit-2022-12-16-16-29-22-utc-1-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-shot-of-hacker-using-laptop-cuber-securit-2022-12-16-16-29-22-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-shot-of-hacker-using-laptop-cuber-securit-2022-12-16-16-29-22-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-shot-of-hacker-using-laptop-cuber-securit-2022-12-16-16-29-22-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-shot-of-hacker-using-laptop-cuber-securit-2022-12-16-16-29-22-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-guard-in-uniform-talking-on-walkie-2022-12-16-17-11-42-utc-1-242x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-guard-in-uniform-talking-on-walkie-2022-12-16-17-11-42-utc-1-242x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-guard-in-uniform-talking-on-walkie-2022-12-16-17-11-42-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-guard-in-uniform-talking-on-walkie-2022-12-16-17-11-42-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-1-300x231.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-1-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-2-300x276.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-2-300x276.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-guard-using-metal-detector-2022-12-16-20-24-38-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-handsome-guard-in-white-shirt-2022-11-03-05-17-30-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-handsome-guard-in-white-shirt-2022-11-03-05-17-30-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-handsome-guard-in-white-shirt-2022-11-03-05-17-30-utc-1-300x298.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-handsome-guard-in-white-shirt-2022-11-03-05-17-30-utc-1-300x298.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-handsome-guard-in-white-shirt-2022-11-03-05-17-30-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-handsome-guard-in-white-shirt-2022-11-03-05-17-30-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-man-filling-in-social-security-for-2022-12-16-18-45-58-utc-1-300x231.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-man-filling-in-social-security-for-2022-12-16-18-45-58-utc-1-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/cropped-view-of-man-filling-in-social-security-for-2022-12-16-18-45-58-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\cropped-view-of-man-filling-in-social-security-for-2022-12-16-18-45-58-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/elderly-black-man-smiling-2022-03-07-23-57-37-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\elderly-black-man-smiling-2022-03-07-23-57-37-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/elderly-black-man-smiling-2022-03-07-23-57-37-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\elderly-black-man-smiling-2022-03-07-23-57-37-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/folder.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\folder.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1-1024x449.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1-1024x449.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1-300x132.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1-300x132.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1-768x337.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1-768x337.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\gold-medal-with-tricolor-ribbons-close-up-medal-f-2023-01-16-23-20-43-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/guard-in-uniform-using-walkie-talkie-and-looking-a-2022-12-10-01-17-03-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\guard-in-uniform-using-walkie-talkie-and-looking-a-2022-12-10-01-17-03-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/gun.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\gun.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/handsome-guard-in-black-uniform-looking-at-camera-2022-12-16-18-11-22-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\handsome-guard-in-black-uniform-looking-at-camera-2022-12-16-18-11-22-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/handsome-guard-in-black-uniform-looking-at-camera-2022-12-16-18-11-22-utc-1-300x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\handsome-guard-in-black-uniform-looking-at-camera-2022-12-16-18-11-22-utc-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/handsome-guard-in-black-uniform-looking-at-camera-2022-12-16-18-11-22-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\handsome-guard-in-black-uniform-looking-at-camera-2022-12-16-18-11-22-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Jagaen-300x79.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Jagaen-300x79.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Jagaen.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Jagaen.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Logo-Client-1.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Logo-Client-1.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Logo-Client-2.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Logo-Client-2.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Logo-Client-3.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Logo-Client-3.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Logo-Client-4.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Logo-Client-4.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Logo-Client-5.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Logo-Client-5.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/Logo-Client-6.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\Logo-Client-6.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/partial-view-of-guard-using-metal-detector-2022-12-16-19-01-52-utc-1-252x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\partial-view-of-guard-using-metal-detector-2022-12-16-19-01-52-utc-1-252x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/partial-view-of-guard-using-metal-detector-2022-12-16-19-01-52-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\partial-view-of-guard-using-metal-detector-2022-12-16-19-01-52-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/partial-view-of-guard-using-metal-detector-2022-12-16-19-01-52-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\partial-view-of-guard-using-metal-detector-2022-12-16-19-01-52-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/partial-view-of-handsome-guard-in-suit-holding-wal-2022-11-03-05-17-30-utc-1-205x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\partial-view-of-handsome-guard-in-suit-holding-wal-2022-11-03-05-17-30-utc-1-205x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/partial-view-of-handsome-guard-in-suit-holding-wal-2022-11-03-05-17-30-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\partial-view-of-handsome-guard-in-suit-holding-wal-2022-11-03-05-17-30-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/police-file.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\police-file.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/police-hat-2.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\police-hat-2.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/police-hat.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\police-hat.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/police-station.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\police-station.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-happy-confident-smart-handsome-business-l-2023-03-27-18-33-04-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-happy-confident-smart-handsome-business-l-2023-03-27-18-33-04-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-happy-confident-smart-handsome-business-l-2023-03-27-18-33-04-utc-1-300x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-happy-confident-smart-handsome-business-l-2023-03-27-18-33-04-utc-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-happy-confident-smart-handsome-business-l-2023-03-27-18-33-04-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-happy-confident-smart-handsome-business-l-2023-03-27-18-33-04-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-serious-asian-businessman-man-outside-2022-12-08-04-05-53-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-serious-asian-businessman-man-outside-2022-12-08-04-05-53-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-serious-asian-businessman-man-outside-2022-12-08-04-05-53-utc-1-300x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-serious-asian-businessman-man-outside-2022-12-08-04-05-53-utc-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-serious-asian-businessman-man-outside-2022-12-08-04-05-53-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-serious-asian-businessman-man-outside-2022-12-08-04-05-53-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-smiling-afro-american-woman-2022-02-17-17-23-16-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-smiling-afro-american-woman-2022-02-17-17-23-16-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-smiling-afro-american-woman-2022-02-17-17-23-16-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-smiling-afro-american-woman-2022-02-17-17-23-16-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-smiling-businessman-outside-office-bui-2022-12-16-22-45-23-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-smiling-businessman-outside-office-bui-2022-12-16-22-45-23-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/portrait-of-smiling-businessman-outside-office-bui-2022-12-16-22-45-23-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\portrait-of-smiling-businessman-outside-office-bui-2022-12-16-22-45-23-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/rear-view-of-guard-in-black-uniform-with-earphone-2022-12-16-20-49-11-utc-1-300x244.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\rear-view-of-guard-in-black-uniform-with-earphone-2022-12-16-20-49-11-utc-1-300x244.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/rear-view-of-guard-in-black-uniform-with-earphone-2022-12-16-20-49-11-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\rear-view-of-guard-in-black-uniform-with-earphone-2022-12-16-20-49-11-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/rear-view-of-guard-in-black-uniform-with-earphone-2022-12-16-20-49-11-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\rear-view-of-guard-in-black-uniform-with-earphone-2022-12-16-20-49-11-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/security-guard-standing-inside-a-commercial-buildi-2022-12-22-23-55-42-utc-1-300x162.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\security-guard-standing-inside-a-commercial-buildi-2022-12-22-23-55-42-utc-1-300x162.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/security-guard-standing-inside-a-commercial-buildi-2022-12-22-23-55-42-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\security-guard-standing-inside-a-commercial-buildi-2022-12-22-23-55-42-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/security-guard-talking-by-portable-radio-about-mal-2022-12-16-16-34-31-utc-1-300x231.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\security-guard-talking-by-portable-radio-about-mal-2022-12-16-16-34-31-utc-1-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/security-guard-talking-by-portable-radio-about-mal-2022-12-16-16-34-31-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\security-guard-talking-by-portable-radio-about-mal-2022-12-16-16-34-31-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-1-300x130.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-1-300x130.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-2-300x231.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-2-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-3.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\selective-focus-of-guard-in-uniform-using-telephon-2022-12-16-21-05-38-utc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/sheriff.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\sheriff.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/side-view-of-information-security-analyst-looking-2022-12-16-18-43-41-utc-1-300x231.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\side-view-of-information-security-analyst-looking-2022-12-16-18-43-41-utc-1-300x231.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/side-view-of-information-security-analyst-looking-2022-12-16-18-43-41-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\side-view-of-information-security-analyst-looking-2022-12-16-18-43-41-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/side-view-of-information-security-analyst-looking-2022-12-16-18-43-41-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\side-view-of-information-security-analyst-looking-2022-12-16-18-43-41-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/side-view-of-prison-guard-sitting-with-cup-of-coff-2022-12-16-17-29-33-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\side-view-of-prison-guard-sitting-with-cup-of-coff-2022-12-16-17-29-33-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/side-view-of-prison-guard-sitting-with-cup-of-coff-2022-12-16-17-29-33-utc-2.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\side-view-of-prison-guard-sitting-with-cup-of-coff-2022-12-16-17-29-33-utc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/smiling-businesswoman-looking-at-camera-in-office-2022-12-16-19-43-41-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\smiling-businesswoman-looking-at-camera-in-office-2022-12-16-19-43-41-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/smiling-businesswoman-looking-at-camera-in-office-2022-12-16-19-43-41-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\smiling-businesswoman-looking-at-camera-in-office-2022-12-16-19-43-41-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/successful-bearded-freelance-businessman-looks-at-2022-12-08-04-13-21-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\successful-bearded-freelance-businessman-looks-at-2022-12-08-04-13-21-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/successful-bearded-freelance-businessman-looks-at-2022-12-08-04-13-21-utc-1-300x300.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\successful-bearded-freelance-businessman-looks-at-2022-12-08-04-13-21-utc-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/successful-bearded-freelance-businessman-looks-at-2022-12-08-04-13-21-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\successful-bearded-freelance-businessman-looks-at-2022-12-08-04-13-21-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/successful-business-woman-looking-confident-and-sm-2022-01-19-00-07-13-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\successful-business-woman-looking-confident-and-sm-2022-01-19-00-07-13-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/successful-business-woman-looking-confident-and-sm-2022-01-19-00-07-13-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\successful-business-woman-looking-confident-and-sm-2022-01-19-00-07-13-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/university-student-portrait-men-smiling-teach-2022-11-09-20-51-53-utc-1-150x150.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\university-student-portrait-men-smiling-teach-2022-11-09-20-51-53-utc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/university-student-portrait-men-smiling-teach-2022-11-09-20-51-53-utc-1.jpg
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\university-student-portrait-men-smiling-teach-2022-11-09-20-51-53-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/2023/10/whistle.png
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\2023\10\whistle.png
+Content Type: image/png
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-142.css?ver=1698130705
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-142.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-158.css?ver=1698130705
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-158.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-283.css?ver=1698130974
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-283.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-333.css?ver=1698131005
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-333.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-356.css?ver=1698250833
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-356.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-388.css?ver=1698250818
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-388.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-421.css?ver=1698286182
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-421.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-444.css?ver=1698267073
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-444.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-456.css?ver=1698271372
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-456.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-464.css?ver=1698271373
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-464.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-70.css?ver=1698130736
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-70.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-85.css?ver=1698130705
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-85.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-content/uploads/elementor/css/post-9.css?ver=1698130705
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://jagaen.tokotema.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://jagaen.tokotema.com/wp-json/
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fabout-us%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fcareer-details%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fcareer-details%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fcareers%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fcareers%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fcontact-us%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fcontact-us%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fpricing%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fpricing%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fservice-details%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fservice-details%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fservices%2F
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjagaen.tokotema.com%2Fservices%2F&format=xml
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/283
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\283
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/333
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\333
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/356
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\356
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/388
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\388
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/421
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\421
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/444
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\444
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/456
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\456
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/wp-json/wp/v2/pages/70
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\wp-json\wp\v2\pages\70
+Content Type: application/json
+
+Uri: https://jagaen.tokotema.com/xmlrpc.php?rsd
+File Name: C:\Users\Escanor\Downloads\pag_vigi\jagaen.tokotema.com\xmlrpc.php
+Content Type: text/xml
+
